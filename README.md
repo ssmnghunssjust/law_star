@@ -7,4 +7,4 @@ crawler = LawStarCrawler(cookie='', word='劳动法')
 crawler.run()
 ```
 ## 数据结果
-![pic](https://github.com/ssmnghunssjust/law_star/data.png)
+![pic](https://github.com/ssmnghunssjust/law_star/blob/main/data.png)
